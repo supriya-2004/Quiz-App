@@ -1,4 +1,4 @@
-# Technologies Used
+# 🛠️Technologies Used
 
 This project is built using the following core web technologies:
 

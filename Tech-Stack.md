@@ -23,3 +23,11 @@ This project is built using the following core web technologies:
   - Calculating scores
   - Displaying results
 - Demonstrates DOM manipulation and event handling
+
+## 4. Google Fonts
+
+- Custom font ("Poppins") is used for a cleaner, more modern UI appearance
+
+---
+
+These technologies were chosen to keep the project beginner-friendly, lightweight, and easy to understand while showcasing the fundamentals of front-end development.
